@@ -28,7 +28,15 @@ then run bamazon.js
 node bamazon.js
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+![gif of use](http://gif1.gif)
+
+...or bamazonManager.js for the manager view
+
+```
+node bamazonManager.js
+```
+
+![gif of manager use](http://gif2.gif)
 
 ## Built With
 
