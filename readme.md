@@ -38,9 +38,9 @@ node bamazonManager.js
 
 ![gif of manager use](gif2.gif)
 
-## Built With
+## Built With...
 
-* [node](https://nodejs.org/en/) - The web framework used 
+* [node](https://nodejs.org/en/) 
 
 ## Authors
 
