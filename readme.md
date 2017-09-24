@@ -28,7 +28,7 @@ then run bamazon.js
 node bamazon.js
 ```
 
-![gif of use](http://gif1.gif)
+![gif of use](gif1.gif)
 
 ...or bamazonManager.js for the manager view
 
@@ -36,7 +36,7 @@ node bamazon.js
 node bamazonManager.js
 ```
 
-![gif of manager use](http://gif2.gif)
+![gif of manager use](gif2.gif)
 
 ## Built With
 
